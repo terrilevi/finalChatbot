@@ -5,8 +5,8 @@ from twilio.twiml.messaging_response import MessagingResponse
 app = Flask(__name__)
 
 # Your Twilio credentials
-account_sid = 'ACe3f2f5a5a421a8e8d3ddccf451d36f68'  
-auth_token = 'e831805998cd8e478a5e708a7958881f'   
+account_sid = 'xxx'  
+auth_token = 'xxx'   
 client = Client(account_sid, auth_token)
 
 @app.route("/webhook", methods=['POST'])
