@@ -1,8 +1,8 @@
 
 Ingresar aca: https://console.twilio.com/us1/develop/sms/try-it-out/whatsapp-learn
 con las credenciales:
-usuario: undude@tuta.io
-contra: Papusxdxdxd2015!
+usuario:xxx
+contra:xxx
 
 Ingresar aca: 
 ![alt text](photo1.png)
